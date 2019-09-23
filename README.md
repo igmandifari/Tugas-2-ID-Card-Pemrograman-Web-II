@@ -2,5 +2,5 @@
 
 - PHP
 - Javascript
-- Css
-- Html
+- CSS
+- HTML 5  
